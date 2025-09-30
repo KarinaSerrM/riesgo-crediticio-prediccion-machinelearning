@@ -46,4 +46,12 @@ El objetivo es identificar **clientes de alto riesgo** y optimizar las decisione
 
 ---
 
- 
+ ## Conclusión
+
+Este proyecto demuestra cómo el análisis de datos y el machine learning pueden convertirse en herramientas clave para la toma de decisiones en el sector financiero.
+Al transformar los datos en insights accionables, se logró construir un modelo robusto de predicción de riesgo crediticio que puede ahorrar costos, mejorar la eficiencia y reducir la morosidad.
+
+---
+
+## Autor
+Karina Serrano Miranda
